@@ -1,6 +1,5 @@
 # vue2-management-platform（请点右上角star）
 vue2.0 + elementUI 后台管理平台
-访问： https://suweiteng.github.io/vue2-management-platform
 
 # 概述
 最近学习vue2.0和elementUI的使用，在各种文档的帮助下，尝试编写了一个后台管理平台。
@@ -24,7 +23,7 @@ vue2.0 + elementUI 后台管理平台
 
 2017年7月13日：编辑器支持同页面多次调用。
 
-2018年1月23日：编辑器支持小功能：获取纯文本(解决[博客](http://www.cnblogs.com/dmcl/p/7152711.html/ "博客")中40L评论的疑问)。
+2018年1月23日：编辑器支持小功能。
 
 教程：http://www.cnblogs.com/dmcl/p/7152711.html
 
