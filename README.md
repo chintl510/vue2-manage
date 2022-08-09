@@ -31,12 +31,6 @@ vue2.0 + elementUI 后台管理平台
 效果如下：
 ![](http://images2015.cnblogs.com/blog/1023587/201707/1023587-20170711213454306-1844528970.png)
 在线体验本功能：https://suweiteng.github.io/vue2-management-platform/#/editor
-
-2018年2月26日：增加打包分析webpack-bundle-analyzer；优化导出功能。(beta2.1)  
-
-2018年4月2日：修复ElementUI升级2.x引起的弹窗问题:[issue 10](https://github.com/suweiteng/vue2-management-platform/issues/10) 
-
- 
  
 # 截图预览
 ![](http://images2015.cnblogs.com/blog/1023587/201704/1023587-20170417163412243-1686976549.png)
