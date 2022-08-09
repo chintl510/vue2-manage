@@ -7,7 +7,7 @@ vue2.0 + elementUI 后台管理平台
 # 依赖项版本
   
      更新：vue已升级至2.5.X，elementUI已升级至2.2，其他相关依赖也已升级，
-     具体请参考https://github.com/suweiteng/vue2-management-platform/blob/master/package.json
+     具体请参考https://github.com/chintl510/vue2-manage/blob/master/package.json
      
      
 # 特别提醒
