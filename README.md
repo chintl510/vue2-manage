@@ -62,6 +62,4 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-请点右上角star，谢谢
 
-![](https://images2018.cnblogs.com/blog/1023587/201802/1023587-20180226133036435-1544066188.png)
