@@ -1,6 +1,6 @@
 # vue2-management-platform（请点右上角star）
 vue2.0 + elementUI 后台管理平台
-访问demo：https://chintl510.github.io/vue2-manage/dist/index.html#/index
+访问：`https://chintl510.github.io/vue2-manage/dist/index.html`
 
 # 概述
 最近学习vue2.0和elementUI的使用，在各种文档的帮助下，尝试编写了一个后台管理平台。
@@ -14,7 +14,7 @@ vue2.0 + elementUI 后台管理平台
 # 特别提醒
  为了便于项目在github pages直接在线预览，部分配置与本地运行配置不一样。目前有2处，代码中已有详细说明，遇到问题可自行修改：
  
- 一是在`config/index.js`中的`assetsPublicPath: '/vue2-management-platform/'`,本地打包可改为`assetsPublicPath: '/'`
+ 一是在`config/index.js`中的`assetsPublicPath: '/vue2-manage/'`,本地打包可改为`assetsPublicPath: '/'`
  
  二是在UE编辑器的配置`static/UE/ueditor.config.js`中，本地开发写`window.UEDITOR_HOME_URL = "/static/UE/"`即可。
 # 更新
