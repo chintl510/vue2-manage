@@ -1,6 +1,6 @@
 # vue2-management-platform（请点右上角star）
 vue2.0 + elementUI 后台管理平台
-访问demo：https://github.com/chintl510/vue2-manage/dist/index.html
+访问demo：https://chintl510.github.io/vue2-manage/dist/index.html#/index
 
 # 概述
 最近学习vue2.0和elementUI的使用，在各种文档的帮助下，尝试编写了一个后台管理平台。
