@@ -2,7 +2,7 @@
   "name": "vue2-manage",
   "version": "1.0.1",
   "description": "A Vue.js project",
-  "author": "suwt <suweiteng1989@qq.com>",
+  "author": "chintl510",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
