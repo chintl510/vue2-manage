@@ -1,4 +1,4 @@
-# vue2-management-platform（请点右上角star）
+# vue2-manage（请点右上角star）
 vue2.0 + elementUI 后台管理平台
 访问：https://chintl510.github.io/vue2-manage/dist/index.html
 
