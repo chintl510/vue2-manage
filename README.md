@@ -35,9 +35,6 @@ vue2.0 + elementUI 后台管理平台
 ![](http://images2015.cnblogs.com/blog/1023587/201704/1023587-20170424111627287-2091967244.gif)
 ## Build Setup
 
-#技术栈
-vue2.0+vue router+webpack+Element UI
-
 ``` bash
 #clone
 git clone https://github.com/chintl510/vue2-manage.git
