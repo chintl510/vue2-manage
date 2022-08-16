@@ -17,13 +17,9 @@ vue2.0 + element UI完成后台管理系统，项目的架构分析，模块搭�
  
  二是在UE编辑器的配置`static/UE/ueditor.config.js`中，本地开发写`window.UEDITOR_HOME_URL = "/static/UE/"`即可。
 # 更新
-### 增加富文本编辑器(beta1.6)
+### 增加富文本编辑器(beta)
 
-集成Ueditor富文本编辑器，作为公共组件。
-
-编辑器支持同页面多次调用。
-
-编辑器支持小功能。
+集成Ueditor富文本编辑器，作为公共组件,编辑器支持同页面多次调用,支持各式小功能。
 
 效果如下：
 ![](http://images2015.cnblogs.com/blog/1023587/201707/1023587-20170711213454306-1844528970.png)
