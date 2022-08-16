@@ -3,8 +3,7 @@ vue2.0 + elementUI 后台管理平台
 
 
 # 概述
-最近学习vue2.0和elementUI的使用，在各种文档的帮助下，编写了一个后台管理平台。
-目前数据采用mock.js模拟，比较简略。
+vue2.0 + element UI完成后台管理系统，项目的架构分析，模块搭载，脚手架搭载配置，实现功能包括增删改查，所使用的技术有vue-router路由、vuex、二次封装axios接口请求、element ui组件库、mock后台数据模拟、echarts图表可视化。
 # 依赖项版本
   
      更新：vue已升级至2.5.X，elementUI已升级至2.2，其他相关依赖也已升级，
