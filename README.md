@@ -1,4 +1,4 @@
-# vue2-manage（请点右上角star）
+# vue2-manage
 vue2.0 + elementUI 后台管理平台
 
 
